@@ -6,7 +6,7 @@ Here is a portfolio featuring my Github projects.
 [repo](https://github.com/generil/listr)
 
 ## Weknowtes
-The app won the hackathon last Sunday (May 27, 2016)
+The app won the hackathon at our school (May 26-27, 2016)
 
 [repo](https://github.com/generil/hackathon)
 
